@@ -1,14 +1,14 @@
 {
-	"name": "",
-	"version": "",
-	"descripption": "",
-	"main": "",
+	"name": "z-react-fast",
+	"version": "1.0.0",
+	"descripption": "A quick react scaffolding",
+	"main": "index.js",
 	"scripts": {
 		"start": "webpack-dev-server --mode development --open",
 		"build": "webpack --mode production"
 	},
-	"keyword": "",
-	"author": "",
+	"keyword": "react-cli",
+	"author": "zwzou",
 	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
