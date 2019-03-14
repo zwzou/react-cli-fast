@@ -1,6 +1,8 @@
 # react-fast
 
-`一个精简的，快速的react项目！`
+> 一个精简的，快速的react项目！
+
+### 操作步骤
 
 // 全局安装脚手架<br>
 `sudo npm install -g z-build`
@@ -11,5 +13,5 @@
 // 初始化项目<br>
 `sudo npm install`
 
-// 开始项<br>
+// 开始项目<br>
 `sudo npm start || npm run dev`
