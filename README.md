@@ -17,3 +17,4 @@ sudo npm install
 // 开始项目
 sudo npm start || npm run dev
 ```
+开始项目之后，会打开默认的浏览器，也可以手动输入localhost:8088在指定的浏览器打开。
