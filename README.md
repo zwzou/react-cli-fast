@@ -8,7 +8,7 @@
 // 全局安装脚手架
 sudo npm install -g z-build
 
-// 下载react-cli-fast模板到你的目录，过程中可指定项目名称
+// 初始化react-cli-fast模板到你的目录，过程中可指定项目名称
 sudo z-build init react-cli-fast
 
 // 初始化项目
