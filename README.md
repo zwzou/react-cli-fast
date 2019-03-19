@@ -15,7 +15,7 @@ sudo z-build init react-cli-fast
 sudo npm install
 
 // 开始项目
-sudo npm start || npm run dev
+sudo npm start
 ```
 
 执行成功，会在默认的浏览器打开，也可以输入地址访问：`localhost:8080`。
